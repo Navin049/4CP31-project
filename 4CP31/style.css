@@ -1,0 +1,9 @@
+/* style.css */
+.nav-link {
+    font-size: large;
+    color: aliceblue !important;
+}
+
+.nav-link:hover {
+    background-color: rgb(3, 255, 24);
+}
